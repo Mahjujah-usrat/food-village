@@ -1,0 +1,121 @@
+body{
+    font-family:'Poppins', sans-serif;margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+
+p{
+    color: black;
+    font-size:15px;
+}
+
+.color-match
+{
+     color: orangered;
+}
+.flexible-container
+{
+    display: flex;
+    margin-bottom: 150px;
+    padding-right: 40px;
+}
+.main-topic
+{ 
+    width: 50%;
+    padding: 2%;
+    margin-left:40 ;
+}
+.main-topic img{
+    width: 100%;  
+}
+             
+.link-button
+{
+    text-decoration: none;
+background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 71, 132));   
+ padding: 10px 40px;
+ color: white;
+ font-weight: 700;
+ border-radius: 20px;
+}
+.top-work
+{
+    margin-left: 80px;
+
+}
+
+
+
+.dream-big{
+  background-image: url(images/7.png);
+    background-repeat: no-repeat;
+   
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.experience-area h3
+{
+    color: orange;
+    }
+.recipies{
+    margin: 0 auto;
+    width: 50%;
+    text-align: justify;
+    
+    
+    
+    
+}
+#vagitable{
+  
+    width: 30%;
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 80px;
+}
+
+#coffy{
+  
+    width: 30%;
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 80px;
+}
+
+
+
+#baby-web{
+    
+    width: 30%;
+    border-image-slice: 1;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 80px;
+}
+
+
+#follow{
+    box-shadow: 10px 10px 40px gray;
+    border-image-slice: 1;
+    height: 200px;
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 70px;
+
+}
+.follow-us{
+    width: 100%;
+    margin-left: 100px;
+}
+
+.footer{ height: 200px;
+width: 100%;background-color: black;
+text-align: center;color: cyan;
+padding-top: 10px;}
+.food{
+    color: orangered;
+}
