@@ -8,6 +8,7 @@ h1{
 p{
     color: black;
     font-size:15px;
+    text-align: justify;
 }
 
 .color-match
@@ -60,7 +61,7 @@ h2{
 
 .experience-area h3
 {
-    color: orange;
+    color: orangered;
     }
 .recipies{
     margin: 0 auto;
@@ -77,6 +78,7 @@ h2{
     border-image-slice: 1;
     box-shadow: 10px 10px 40px gray;
     margin-left: 80px;
+    border-radius: 40px;
 }
 
 #coffy{
@@ -85,6 +87,7 @@ h2{
     border-image-slice: 1;
     box-shadow: 10px 10px 40px gray;
     margin-left: 80px;
+    border-radius: 40px;
 }
 
 
@@ -95,6 +98,7 @@ h2{
     border-image-slice: 1;
     box-shadow: 10px 10px 40px gray;
     margin-left: 80px;
+    border-radius: 40px;
 }
 
 
