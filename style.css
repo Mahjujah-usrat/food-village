@@ -97,13 +97,13 @@ h2{
     border-radius: 40px;
 }
 
-.rating{box-shadow: 10px 10px 40px purple;
+.rating{box-shadow: 10px 10px 40px darkblue;
     border-image-slice: 1;
     height: 200px;
     border-radius: 20px;
     width: 90%;
     margin-left: 70px;
-    background-image: linear-gradient(rgb(55, 0, 255),rgb(4, 0, 255)); 
+    background-image: linear-gradient(rgba(16, 1, 70, 0.993),rgb(4, 0, 255)); 
 }
 
 .heading {
@@ -111,7 +111,6 @@ h2{
     padding-left: 460px;
     color: blanchedalmond;
   }
-  
   .review{
       color: wheat;
       padding-left:460px ;
