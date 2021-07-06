@@ -101,6 +101,54 @@ h2{
     border-radius: 40px;
 }
 
+.rating{box-shadow: 10px 10px 40px yellow;
+    border-image-slice: 1;
+    height: 200px;
+    border-radius: 20px;
+    width: 90%;
+    margin-left: 70px;
+    background-color:blue;
+
+}
+
+.heading {
+    font-size: 25px;
+    padding-left: 460px;
+    color: blanchedalmond;
+  }
+  .review{
+      color: wheat;
+      padding-left:460px ;
+  }
+  
+  .fa {
+    font-size: 25px;
+  }
+  
+  .checked {
+    color: orange;
+  }
+
+
+.glow {
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+
+
+
 
 #follow{
     box-shadow: 10px 10px 40px gray;
