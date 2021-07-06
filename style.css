@@ -11,37 +11,36 @@ p{
     text-align: justify;
 }
 
-.color-match
-{
+.color-match{
      color: orangered;
 }
-.flexible-container
-{
+
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
     padding-right: 40px;
 }
-.main-topic
-{ 
+
+.main-topic{ 
     width: 50%;
     padding: 2%;
     margin-left:40 ;
 }
+
 .main-topic img{
     width: 100%;  
 }
              
-.link-button
-{
-    text-decoration: none;
+.link-button{
+text-decoration: none;
 background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 227, 71));   
  padding: 10px 40px;
  color: white;
  font-weight: 700;
  border-radius: 20px;
 }
-.top-work
-{
+
+.top-work{
     margin-left: 80px;
 
 }
@@ -59,19 +58,16 @@ h2{
     text-align: center;
 }
 
-.experience-area h3
-{
+.experience-area h3{
     color: orangered;
     }
+
 .recipies{
     margin: 0 auto;
     width: 50%;
-    text-align: justify;
-    
-    
-    
-    
+    text-align: justify;   
 }
+
 #vagitable{
   
     width: 30%;
@@ -108,8 +104,6 @@ h2{
     width: 90%;
     margin-left: 70px;
     background-image: linear-gradient(rgb(55, 0, 255),rgb(4, 0, 255)); 
-  
-
 }
 
 .heading {
@@ -117,6 +111,7 @@ h2{
     padding-left: 460px;
     color: blanchedalmond;
   }
+  
   .review{
       color: wheat;
       padding-left:460px ;
