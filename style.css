@@ -34,7 +34,7 @@ p{
 .link-button
 {
     text-decoration: none;
-background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 71, 132));   
+background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 227, 71));   
  padding: 10px 40px;
  color: white;
  font-weight: 700;
@@ -101,13 +101,14 @@ h2{
     border-radius: 40px;
 }
 
-.rating{box-shadow: 10px 10px 40px yellow;
+.rating{box-shadow: 10px 10px 40px purple;
     border-image-slice: 1;
     height: 200px;
     border-radius: 20px;
     width: 90%;
     margin-left: 70px;
-    background-color:blue;
+    background-image: linear-gradient(rgb(55, 0, 255),rgb(4, 0, 255)); 
+  
 
 }
 
@@ -135,6 +136,7 @@ h2{
     color: #fff;
     text-align: center;
     animation: glow 1s ease-in-out infinite alternate;
+    padding-top: -10px;
   }
   
   @-webkit-keyframes glow {
